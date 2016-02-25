@@ -1,0 +1,12 @@
+﻿log/
+xhtml/
+packages/
+obj/
+_site/
+_pdf/
+Tools/NuGet/
+.optemp/
+
+.openpublishing.build.mdproj
+.openpublishing.buildcore.ps1
+packages.config
